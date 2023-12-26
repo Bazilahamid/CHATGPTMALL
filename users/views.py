@@ -10,6 +10,3 @@ def LoginView(request):
 
 def RegisterView(request):
     return render (request, 'register.html')
-
-#def HomePage(request):
- #def HomePage(request):
